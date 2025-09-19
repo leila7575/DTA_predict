@@ -128,6 +128,7 @@ open your browser to `http://localhost:5000`
 6. **Standalone Prediction**
 
 ```bash
+
 python predict.py
 ```
 
@@ -139,6 +140,7 @@ Three blocks:
 2. **Protein Model**: CNN for processing ProtBert embeddings of protein sequences
 3. **DTA Model**: Multi-layer perceptron that processes concatenated representations of drug molecule and protein sequences to predict binding affinity.
 
+<img width="1920" height="1080" alt="DTA predict architecture" src="https://github.com/user-attachments/assets/e92f550b-1c98-46ac-bdc5-ec08b78711fd" />
 
 ## Authors
 Leila Louajri
