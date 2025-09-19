@@ -2,7 +2,7 @@
 
 ## Description
 
-Predicting Drug-target binding affinity between drug maolecule and target protein using KIBA Kinase inhibitor bioactivity dataset. The architecture of this project combines GCN Graphical Neural Network for drug molecules, CNN Convolutional Neural Layer for protein sequence and MLP for KIBA score prediction.
+Predicting Drug-target binding affinity between drug molecule and target protein using KIBA Kinase inhibitor bioactivity dataset. The architecture of this project combines GCN Graphical Neural Network for drug molecules, CNN Convolutional Neural Layer for protein sequence and MLP for KIBA score prediction.
 
 ## Technologies
 
