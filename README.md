@@ -58,7 +58,7 @@ app.py |  It includes API routes for kiba score prediction and molecule visualiz
 models.py | Builds main architecture blocks: GCN, CNN, MLP and alternative dense neural network for drug feature extraction. 
 preprocessing.py| Data transformation of drug molecules and protein sequences into suitable format. smiles_featurization function for smiles to ConvMol graph transformation, followed by molecular descriptors computation, protein_encoding function for protein sequence embedding with ProteinBert pretrained transformer.
 train.py | training pipeline and model evaluation
-predict.py | standalone predictio
+predict.py | standalone prediction
 
 ## Dataset
 
