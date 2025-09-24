@@ -147,12 +147,7 @@ Leila Louajri
 
 ## References
 
-- KIBA Dataset: [Tang et al., 2014](https://doi.org/10.1093/bioinformatics/btu626)
-- ProtBert: [Elnaggar et al., 2020](https://doi.org/10.1109/TPAMI.2021.3095381)
-- DeepChem: [Ramsundar et al., 2019](https://github.com/deepchem/deepchem)
-- Tang J. KiBA - a benchmark dataset for drug target prediction [Internet]. Kaggle. Available from: https://www.kaggle.com/datasets/christang0002/davis-and-kiba?select=kiba.txt  
-
-- Tang J, Szwajda A, Shakyawar S, Xu T, Hintsanen P, Wennerberg K, et al. Making sense of large-scale kinase inhibitor bioactivity data sets: a comparative and integrative analysis. Bioinformatics. 2014;30(12):172–180. Available from: https://researchportal.helsinki.fi/en/datasets/kiba-a-benchmark-dataset-for-drug-target-prediction  
+- Tang J. KiBA - a benchmark dataset for drug target prediction. Kaggle. Available from: https://www.kaggle.com/datasets/christang0002/davis-and-kiba?select=kiba.txt  
 
 - Öztürk H, Özgür A, Ozkirimli E. DeepDTA: Deep drug–target binding affinity prediction. Bioinformatics. 2018;34(17):i821–i829.  
 
